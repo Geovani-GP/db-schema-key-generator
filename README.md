@@ -5,7 +5,10 @@ This is a key generator for Db Schema, just for hack pourpose, if your really ne
 >DbSchema can be evaluated 15 days for free. No registration required. The software kit is the same for evaluation and registered users.
 
 **I'm not responsible for all illegal usage of this product.**
-
+install https://sourceforge.net/projects/mingw/files/latest/download
+g++, make
+global parameters
+path: C:\MinGW\msys\1.0\bin and C:\MinGW\bin
 Usage:
 ```bash
 git clone https://github.com/riguzlee/db-schema-key-generator.git
